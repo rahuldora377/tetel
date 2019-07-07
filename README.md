@@ -1,5 +1,5 @@
-# tetel
-THIS IS A AUTO HACKING USB TOOL.
-PUT THIS TOOL IN ANY USB DRIVE AND RUN USB.BAT FILE AS ADMINISTRATOR AND CHOOSE OPTIONS AS YOU WANT.
-FOR MORE DETAILS OPEN "README.TXT"
-THANK YOU
+# Tetel
+This Is A Auto Hacking Usb Tool.
+Put This Tool In Any Usb Drive And Run Usb.Bat File As Administrator And Choose Options As You Want.
+For More Details Open "Readme.Txt"
+Thank You
